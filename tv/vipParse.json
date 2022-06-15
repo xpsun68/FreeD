@@ -1,52 +1,64 @@
 {
-  "data": [
-    {
-      "id": 1,
-      "name": "线路1",
-      "ad": "no",
-      "url": "https://okjx.cc/?url="
-    },
-    {
-      "id": 1,
-      "name": "线路2",
-      "ad": "no",
-      "url": "http://jx.618ge.com/?url="
-    },
-    {
-      "id": 1,
-      "name": "线路3",
-      "ad": "no",
-      "url": "https://jx.618g.com/?url="
-    },
-    {
-      "id": 1,
-      "name": "线路4",
-      "ad": "no",
-      "url": "https://www.ckplayer.vip/jiexi/?url="
-    },
-    {
-      "id": 1,
-      "name": "线路5",
-      "ad": "no",
-      "url": "https://api.10dy.net/?url="
-    },
-    {
-      "id": 1,
-      "name": "线路6",
-      "ad": "no",
-      "url": "https://jx.elwtc.com/vip/?url="
-    },
-    {
-      "id": 1,
-      "name": "线路7",
-      "ad": "no",
-      "url": "https://www.ckmov.vip/api.php?url="
-    },
-    {
-      "id": 1,
-      "name": "线路8",
-      "ad": "no",
-      "url": "https://jx.000180.top/jx/?url="
-    }
-  ]
+    "data": [
+        {
+            "id": 19,
+            "name": "自定义1",
+            "ad": "no",
+            "url": "https://vip.parwix.com:4433/player/?url="
+        },
+        {
+            "id": 19,
+            "name": "自定义2",
+            "ad": "no",
+            "url": "https://sb.5gseo.net/?url="
+        },
+        {
+            "id": 19,
+            "name": "自定义3",
+            "ad": "no",
+            "url": "https://okjx.cc/?url="
+        },
+        {
+            "id": 19,
+            "name": "自定义4",
+            "ad": "no",
+            "url": "https://jx.aidouer.net/?url="
+        },
+        {
+            "id": 19,
+            "name": "自定义5",
+            "ad": "no",
+            "url": "https://jx.blbo.cc:4433/?url="
+        },
+        {
+            "id": 19,
+            "name": "自定义6",
+            "ad": "no",
+            "url": "https://www.ckmov.vip/api.php?url="
+        },
+        {
+            "id": 19,
+            "name": "自定义7",
+            "ad": "no",
+            "url": "https://www.mtosz.com/m3u8.php?url="
+        },
+        {
+            "id": 19,
+            "name": "自定义8",
+            "ad": "no",
+            "url": "https://www.pangujiexi.cc/jiexi.php?url="
+        },
+        {
+            "id": 19,
+            "name": "自定义9",
+            "ad": "no",
+            "url": "https://jiexi.us/?url="
+        },
+        {
+            "id": 19,
+            "name": "自定义10",
+            "ad": "no",
+            "url": "https://www.8090g.cn/?url="
+        }
+    ]
 }
